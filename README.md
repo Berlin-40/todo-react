@@ -10,6 +10,8 @@ Toutes les tâches sont stockées localement dans le navigateur via **localStora
 
 ---
 
+![image](https://github.com/Berlin-40/todo-react/blob/ae2df9277f3ba0da29d102e2ba821cf55c6b9081/todo.png)
+
 ## 🚀 Fonctionnalités
 
 - ➕ Ajouter une tâche  
